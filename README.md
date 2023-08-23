@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/GuylhermeLima">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuylhermeLima&layout=compact&langs_count=7&theme=cobalt"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuylhermeLima&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuylhermeLima&layout=compact&langs_count=7&theme=shadow_red"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuylhermeLima&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
