@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🌱 Estudante de Engenharia de Software - UFC Campus Russas<br>- 📫 Contate-me no email: guylhermepro@gmail.com</p>
+<p align="left">- 🌱 Estudante de Engenharia de Software - UFC Campus Russas<br>- 📫 Contate-me no email: guylherme.l.e@gmail.com</p>
 
 ###
 
